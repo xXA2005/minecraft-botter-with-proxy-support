@@ -27,7 +27,7 @@ async function Banner(){
 
           setTimeout(() => {
               
-              console.log(BannerColor(figlet.textSync('xXA botter', {
+              console.log(BannerColor(figlet.textSync('Ab5 botter', {
                   font: 'bloody',
               })))
               console.log(StartColor('made by Ab.5#9111') )
