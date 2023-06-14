@@ -14,7 +14,7 @@ install node js frist https://nodejs.org/
 open the code and uncomment the commented part and add your proxy there fr
 
 
-### need some help contact me https://ab5.wtf
+### need some help contact me https://ab5.wtf/
 
 <img src="./assets/ingame.png" alt="ingame">
 <img src="./assets/mc.png" alt="mc">
