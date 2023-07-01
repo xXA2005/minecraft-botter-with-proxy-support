@@ -1,5 +1,6 @@
 # best minecraft botter fr
 
+# for educational purposes only im not responsable for any damage or stuff you use it you handle what you get i just code for education
 
 ## how to install
 install node js frist https://nodejs.org/
